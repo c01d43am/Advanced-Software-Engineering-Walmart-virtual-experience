@@ -1,4 +1,5 @@
-# Advanced-Software-Engineering-Walmart
+# Advanced-Software-Engineering-Walmart-virtual-experience
+
 technical discovery, design and implementation of large-scale applications, products and platforms
 
 The code you provided consists of two separate classes: `PowerOfTwoMaxHeap` and `DatabaseConnector`. Let's summarize and explain each class:
